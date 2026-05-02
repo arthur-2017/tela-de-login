@@ -86,7 +86,7 @@ div.campo > input{
     transition: all .5s;
 }
 
-  input#en{
+  a#en{
         background-color: rgb(3, 187, 3);
          padding: 2px;
          display: block;
@@ -96,9 +96,12 @@ div.campo > input{
          color: white;
          border: none;
          border-radius: 5px;
+         text-align: center;
+         text-decoration: none;
+         transform: translatex(-5px);
     }
 
-    input#en:hover{
+    a#en:hover{
         cursor: pointer;
         color: rgb(3, 110, 44);
 
