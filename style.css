@@ -83,7 +83,7 @@ div.campo > input{
     width: calc(100% - 50px);
     transform: translatey(-10px);
     height: 100%;
-    transition: all .5s;
+    transition: all .6s;
 }
 
   a#en{
